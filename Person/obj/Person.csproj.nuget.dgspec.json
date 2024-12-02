@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\Person\\Person.csproj": {}
+    "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\person\\Person.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\Person\\Person.csproj": {
+    "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\person\\Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\Person\\Person.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\person\\Person.csproj",
         "projectName": "Person",
-        "projectPath": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\Person\\Person.csproj",
+        "projectPath": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\person\\Person.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\Person\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\OneDrive\\Documentos\\Área de Trabalho\\plano de estudo\\person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
